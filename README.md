@@ -16,4 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-<img src="https://github.com/jackho2022/http_json_app/blob/main/http_json.gif" width="360" height="640/>
+<img src=https://github.com/jackho2022/http_json_app/blob/main/http_json.gif width="360" height="640/>
